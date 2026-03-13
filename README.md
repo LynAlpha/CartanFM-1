@@ -86,11 +86,12 @@ CUDA_VISIBLE_DEVICES=$DEVICE_IDX python $PYTHON_FILE \
 If you use this repository in your research, please cite it with the following BibTeX entry.
 
 ```bibtex
-@misc{symmetric_space_learning_2026,
-	title        = {Symmetric Space Learning for Combinatorial Generalization},
-	author       = {Anonymous},
-	year         = {2026},
-	howpublished = {\url{https://github.com/<your-org>/<your-repo>}},
-	note         = {Please update author list and repository URL before camera-ready release}
+@inproceedings{
+jeong2026symmetric,
+title={Symmetric Space Learning for Combinatorial Generalization},
+author={Jaehyoung Jeong and Hee-Jun Jung and Kangil Kim},
+booktitle={The Fourteenth International Conference on Learning Representations},
+year={2026},
+url={https://openreview.net/forum?id=e8t9F4vX9N}
 }
 ```
